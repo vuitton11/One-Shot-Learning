@@ -1,4 +1,4 @@
-# One-Shot-Learning
+# AI-Real-Estate-Appraiser
 <h3>Summary</h3>
 
 In the new age of Artificial Intelligence, machine learning has become quite popular 
